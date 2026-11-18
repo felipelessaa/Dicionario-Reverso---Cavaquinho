@@ -1,0 +1,6 @@
+{
+  "name": "Dicionário Reverso de Cavaquinho",
+  "description": "Dicionário reverso de acordes e análise harmônica para cavaquinho de 4 cordas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
